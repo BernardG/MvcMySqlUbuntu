@@ -1,0 +1,4 @@
+﻿A very basic Asp.net MVC 4.0 Application, made to test with Mono and MySql. 
+Because for now MySql .Net connector works only for with Entity Framework version 5.0 and below, this application is using the Devart connector. As soon as available, MySql connector for EF6 will be used.
+To read more about this, go to my blog page:
+http://www.bgsoftfactory.net/lamaandlamp
