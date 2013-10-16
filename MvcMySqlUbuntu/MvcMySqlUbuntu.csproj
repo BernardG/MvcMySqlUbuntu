@@ -272,6 +272,7 @@
     <Content Include="Global.asax" />
     <None Include="Properties\PublishProfiles\Test MySQl Ubuntu Local Samba.pubxml" />
     <None Include="Scripts\jquery-1.6.4-vsdoc.js" />
+    <None Include="README" />
     <Content Include="Scripts\jquery-1.6.4.js" />
     <Content Include="Scripts\jquery-1.6.4.min.js" />
     <Content Include="Scripts\jquery-ui-1.10.3.js" />
